@@ -1,1 +1,1 @@
-Learning git amend
+Learning git amend command.
